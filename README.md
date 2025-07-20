@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<p align="center">
-  <a href="https://github.com/99MotiveU"><img src="https://img.shields.io/badge/GitHub-99MotiveU-181717?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:ydk3247@gmail.com"><img src="https://img.shields.io/badge/Email-ydk3247@gmail.com-EA4335?style=for-the-badge&logo=gmail"/></a>
-</p>
-
-<br>
-
-> 유지보수가 쉬운 코드로 세상에 실질적인 가치를 더하고 싶습니다.  
-> 사용자의 입장에서 먼저 생각하고, 동료와 함께 성장하는 것을 중요하게 생각합니다.
-
-<br>
-
----
-
 ### 🙋‍♂️ About Me
 
 -   **시스템 전체를 보는 시야**를 중요하게 생각합니다. 컴퓨터 시뮬레이션학을 전공하며 하드웨어의 동작 원리부터 소프트웨어의 논리적 흐름까지 아우르는 지식을 배웠습니다.
