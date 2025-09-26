@@ -6,6 +6,10 @@
 
 
 ### Projects
-- **MafiaG**(https://github.com/MafiaG)
-- **ExitLog**(https://github.com/ExitLog)
-- **BIF**(https://github.com/99MotiveU/Better-In-Focust-BIF)
+- [**MafiaG**](https://github.com/99MotiveU/MafiaG)
+  
+  
+- [**ExitLog**](https://github.com/99MotiveU/ExitLog)
+
+  
+- [**BIF**](https://github.com/99MotiveU/Better-In-Focust-BIF)
