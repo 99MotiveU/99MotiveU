@@ -6,15 +6,16 @@
 
 
 ### Projects
-- [**MafiaG**](https://github.com/99MotiveU/MafiaG)
+- [**MafiaG**](https://github.com/99MotiveU/MafiaG) : 사람들 사이 숨어있는 AI를 찾는 게임
+    
   
-  
-- [**ExitLog**](https://github.com/99MotiveU/ExitLog)
+- [**ExitLog**](https://github.com/99MotiveU/ExitLog) : 퇴사, 이직, 구직자들이 모여 기업 경험을 공유하는 커뮤니티 플랫폼
 
   
-- [**BIF**](https://github.com/99MotiveU/Better-In-Focust-BIF)
+- [**BIF**](https://github.com/99MotiveU/Better-In-Focust-BIF) : 경계선 지능인 보조 웹앱
 
 
+- [**Qversity**](https://github.com/99MotiveU/Qversity) : FSRS 알고리즘 기반 학습 플랫폼 ~ing
 ---
 
 
