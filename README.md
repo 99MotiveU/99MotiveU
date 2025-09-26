@@ -5,3 +5,7 @@
 -   **동료와 함께 성장**하는 것을 즐깁니다. 코드 리뷰와 기술 공유를 통해 배우고, 더 나은 결과물을 만들어가는 과정에서 함께 성장하는 것을 목표로 합니다.
 
 
+### Projects
+- **MafiaG**(https://github.com/MafiaG)
+- **ExitLog**(https://github.com/ExitLog)
+- **BIF**(https://github.com/99MotiveU/Better-In-Focust-BIF)
