@@ -8,7 +8,7 @@
 ### Projects
 - [**MafiaG**](https://github.com/99MotiveU/MafiaG)
   
-  : 사람들 사이 숨어있는 AI를 찾는 채팅 기반 게임
+  : 사람들 사이 숨어있는 Gemini를 찾는 소셜 게임
     
   
 - [**ExitLog**](https://github.com/99MotiveU/ExitLog)
